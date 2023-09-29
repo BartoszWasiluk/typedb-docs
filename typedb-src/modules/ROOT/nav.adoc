@@ -1,5 +1,17 @@
 // TypeDB
 
+.Header Test
+* https://typedb.com[External link test]
+
+* xref:overview.adoc[Link group test]
+** xref:admin/configuration.adoc[]
+** xref:admin/export-import.adoc[]
+** xref:admin/update.adoc[]
+** xref:admin/ha.adoc[]
+** xref:admin/security.adoc[]
+
+
+//.Main
 * xref:overview.adoc[]
 * xref:introduction.adoc[]
 * xref:installation.adoc[]
